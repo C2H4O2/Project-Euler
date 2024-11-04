@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\bin\Debug\net7.0\Problem29.exe
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\bin\Debug\net7.0\Problem29.deps.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\bin\Debug\net7.0\Problem29.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\bin\Debug\net7.0\Problem29.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\bin\Debug\net7.0\Problem29.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\refint\Problem29.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\Problem29.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem29\obj\Debug\net7.0\ref\Problem29.dll
