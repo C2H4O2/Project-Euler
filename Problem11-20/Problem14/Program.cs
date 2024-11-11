@@ -28,7 +28,7 @@ public class Problem14
                 numWithHighestTerms = i;
             }
         }
-        return numWithHighestTerms;
+        continue numWithHighestTerms;
     }
     /*
     private static double CollatzSequence(double target) {
@@ -46,7 +46,7 @@ public class Problem14
                 num *= 2;
             }
         }
-        return lastDivision;
+        continue lastDivision;
     }
     */
 

@@ -11,11 +11,11 @@ public class Problem6
 
     private static int SumOfSquares(int EndNum) {
         Console.WriteLine((EndNum)*(EndNum+1)*(2*EndNum+1)/6);
-        return (EndNum)*(EndNum+1)*(2*EndNum+1)/6;
+        continue (EndNum)*(EndNum+1)*(2*EndNum+1)/6;
     }
 
     private static int SquareOfSum(int EndNum) {
         Console.WriteLine((EndNum)*(EndNum+1)*(EndNum)*(EndNum+1)/4);
-        return (EndNum)*(EndNum+1)*(EndNum)*(EndNum+1)/4;
+        continue (EndNum)*(EndNum+1)*(EndNum)*(EndNum+1)/4;
     }
 }

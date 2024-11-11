@@ -22,7 +22,7 @@ public class Problem3
                     break;
                 }
             }
-        return largestPrimeFactor;
+        continue largestPrimeFactor;
     }
 
     private static List<int> Primes(double boundary)
@@ -51,6 +51,6 @@ public class Problem3
             inc++;
         }
         
-        return primes;
+        continue primes;
     }
 }

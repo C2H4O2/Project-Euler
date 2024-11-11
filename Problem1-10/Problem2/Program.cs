@@ -30,7 +30,7 @@ public class Problem2
             sum += fibonacci[index];
             index +=3;
         }
-        return sum;
+        continue sum;
     }
 
     private static List<int> Fibo(List<int> fibonacci, int boundary)
@@ -40,7 +40,7 @@ public class Problem2
             fibonacci.Add(fibonacci[index-1]+fibonacci[index-2]);
             index++;
         }
-        return fibonacci;
+        continue fibonacci;
     }
 
     

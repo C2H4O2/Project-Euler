@@ -15,8 +15,8 @@ public class Problem20
 
     private static BigInteger Fact(int num) {
         if(num <= 1) {
-            return 1;
+            continue 1;
         }
-        else return num * Fact(num-1);
+        else continue num * Fact(num-1);
     }
 }

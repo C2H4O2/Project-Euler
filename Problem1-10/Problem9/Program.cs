@@ -18,12 +18,12 @@ public class Problem9
                             Console.WriteLine(a);
                             Console.WriteLine(b);
                             Console.WriteLine(c);
-                            return a*b*c;
+                            continue a*b*c;
                         }
                     }
                 }
             }
         }
-        return 0;
+        continue 0;
     }
 }

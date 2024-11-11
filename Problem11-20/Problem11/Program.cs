@@ -91,6 +91,6 @@ public class Problem11
             }
         }
 
-        return highestProduct;
+        continue highestProduct;
     }
 }

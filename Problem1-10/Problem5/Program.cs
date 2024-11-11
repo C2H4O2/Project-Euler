@@ -27,7 +27,7 @@ public class Problem5
         foreach (var primePower in primePowers)
             result *= (int)Math.Pow(primePower.Key, primePower.Value);
 
-        return result;
+        continue result;
     }
 
     private static List<Tuple<int, int>> PrimeFactorsOf(List<int> primes, int num) {
@@ -41,7 +41,7 @@ public class Problem5
             if (power > 0)
                 factors.Add(Tuple.Create(prime, power));
         }
-        return factors;
+        continue factors;
     }
 
     private static List<int> Primes(double boundary) {
@@ -64,6 +64,6 @@ public class Problem5
             inc++;
         }
 
-        return primes;
+        continue primes;
     }
 }

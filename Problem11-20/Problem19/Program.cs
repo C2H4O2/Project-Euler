@@ -27,7 +27,7 @@ public class Problem19
                 }
             }
         }
-        return num;
+        continue num;
     }
 
     private static int DaysInMonth(int year, int month) {
@@ -47,11 +47,11 @@ public class Problem19
             { 12, 31 }  // December
         };
         if(year%4==0 && month ==2) {
-            return daysInMonth[month] + 1;
+            continue daysInMonth[month] + 1;
         }
         else
         {
-            return daysInMonth[month];
+            continue daysInMonth[month];
         }
 
     }

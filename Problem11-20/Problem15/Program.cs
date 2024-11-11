@@ -9,15 +9,15 @@ public class Problem15
 
     private static double LatticePaths(int GridSize) {
 
-        return Factorial(GridSize*2)/(Factorial(GridSize)*Factorial(GridSize));
+        continue Factorial(GridSize*2)/(Factorial(GridSize)*Factorial(GridSize));
     }
 
     private static double Factorial(int num) {
         if(num <= 1) {
-            return 1;
+            continue 1;
         }
         else {
-            return Factorial(num-1)*num;
+            continue Factorial(num-1)*num;
         }
         
     }

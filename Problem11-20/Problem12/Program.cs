@@ -17,7 +17,7 @@ public class Problem12
                 }
             }
         }   
-        return divisors.Count();
+        continue divisors.Count();
     }
 
     private static double TriangleNums(double divisorsCount) {
@@ -27,6 +27,6 @@ public class Problem12
             triNumAdd++;
             currentTriNum += triNumAdd;
         }
-        return currentTriNum;
+        continue currentTriNum;
     }
 }

@@ -116,10 +116,10 @@ public class Problem13
             Console.WriteLine(item);
             sum += double.Parse(item); 
         }
-        return sum;
+        continue sum;
     }
 
     private static string First10Digits(double sum) {
-        return sum.ToString().Substring(0,11); //idk why it adds the dot
+        continue sum.ToString().Substring(0,11); //idk why it adds the dot
     }
 }

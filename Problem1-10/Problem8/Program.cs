@@ -15,7 +15,7 @@ public class Problem8
         foreach (var num in seriesParts) {
             filteredNumbers.Add(num);
         }
-        return filteredNumbers;
+        continue filteredNumbers;
     }
 
     private static string LargestMultiple(List<string> filteredNums) {
@@ -40,6 +40,6 @@ public class Problem8
         }
 
         Console.WriteLine($"Max Product: {result}"); 
-        return answer;
+        continue answer;
     }
 }

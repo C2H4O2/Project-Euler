@@ -51,6 +51,6 @@ public class Problem28
                 nextRow[i] += Math.Max(row[i],row[i-1]);
             }
         }
-        return nextRow;
+        continue nextRow;
     }
 }

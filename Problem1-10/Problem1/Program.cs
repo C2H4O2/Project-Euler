@@ -16,6 +16,6 @@ public class Problem1
         int lastCommonMultiple = (boundary-1) / (num1 * num2);
         // 5*1 + 5*2 + ... + 5*n = 5(1+2+ ... n) = 5(n(n+1)/2)
 
-        return num1*(lastMultiple1*(lastMultiple1+1)/2) + num2*(lastMultiple2*(lastMultiple2+1)/2) - (num1*num2)*(lastCommonMultiple*(lastCommonMultiple+1)/2);
+        continue num1*(lastMultiple1*(lastMultiple1+1)/2) + num2*(lastMultiple2*(lastMultiple2+1)/2) - (num1*num2)*(lastCommonMultiple*(lastCommonMultiple+1)/2);
     }
 }

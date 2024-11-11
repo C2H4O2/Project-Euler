@@ -25,14 +25,14 @@ public class Problem4
                 }
             }
         }
-        return biggestPalindrome;
+        continue biggestPalindrome;
     }
 
     private static bool PalindromeCheck(int testNum) {
         string original = testNum.ToString();
         string reversed = new string(original.Reverse().ToArray());
         
-        return original == reversed;
+        continue original == reversed;
     }
 
     

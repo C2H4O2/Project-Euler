@@ -33,7 +33,7 @@ public class Problem17
         foreach (var num in numList) {
             sumOfChar += num.Length;
         }
-        return sumOfChar;
+        continue sumOfChar;
     }
 
     private static double Characters(int target, List<string> OneToNine, List<string> teenWords, List<string> tyWords, List<string> hundredWords, List<string> thousandWords) {
@@ -75,6 +75,6 @@ public class Problem17
             }
         }
 
-        return totalSum;
+        continue totalSum;
     }
 }

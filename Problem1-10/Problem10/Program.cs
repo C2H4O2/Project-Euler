@@ -37,6 +37,6 @@ public class Problem10
             inc++;
         }
         
-        return primes;
+        continue primes;
     }
 }
