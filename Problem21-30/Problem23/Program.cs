@@ -48,11 +48,11 @@ public class Problem23
         foreach (var num in divisors) {
             sum += num;
         }
-        continue sum;
+        return sum;
     }
 
     private static bool Abundant(double target) {
-        continue target < SumOfProperDivisors(target);
+        return target < SumOfProperDivisors(target);
     }
 
 }

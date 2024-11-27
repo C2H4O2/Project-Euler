@@ -35,7 +35,7 @@ public class Problem27
             inc++;
         }
         
-        continue primes;
+        return primes;
     }
 
     private static int LongestChainOfPrimes(int a, List<int> primes)
@@ -60,7 +60,7 @@ public class Problem27
         Console.WriteLine(longestA);
         Console.WriteLine(longestB);
         Console.WriteLine(longestChain);
-        continue longestA*longestB;
+        return longestA*longestB;
         
     }
 

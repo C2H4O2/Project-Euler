@@ -32,6 +32,6 @@ public class Problem30
                 nums.Add(i);
             }
         }
-        continue nums;
+        return nums;
     }
 }

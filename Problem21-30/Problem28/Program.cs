@@ -14,7 +14,7 @@ public class Problem28
 
     private static double quadratic(double x)
     {
-        continue (16*x*x -28 * x + 16); //Found using simultaneous equation 4,24,76,160
+        return (16*x*x -28 * x + 16); //Found using simultaneous equation 4,24,76,160
     }
 
 

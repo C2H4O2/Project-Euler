@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.sourcelink.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\bin\Debug\net9.0\Problem42.exe
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\bin\Debug\net9.0\Problem42.deps.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\bin\Debug\net9.0\Problem42.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\bin\Debug\net9.0\Problem42.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\bin\Debug\net9.0\Problem42.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\refint\Problem42.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\Problem42.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem42\obj\Debug\net9.0\ref\Problem42.dll

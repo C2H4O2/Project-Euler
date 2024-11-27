@@ -20,7 +20,7 @@ public class Problem28
             }
         }
         powers.Sort();
-        continue powers.Distinct().ToList();
+        return powers.Distinct().ToList();
     }
 
 

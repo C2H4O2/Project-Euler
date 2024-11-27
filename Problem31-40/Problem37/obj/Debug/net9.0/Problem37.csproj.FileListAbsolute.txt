@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\bin\Debug\net9.0\Problem37.exe
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\bin\Debug\net9.0\Problem37.deps.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\bin\Debug\net9.0\Problem37.runtimeconfig.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\bin\Debug\net9.0\Problem37.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\bin\Debug\net9.0\Problem37.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.sourcelink.json
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\refint\Problem37.dll
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.pdb
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\Problem37.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Desktop\Coding\Project Euler\Problem31-40\Problem37\obj\Debug\net9.0\ref\Problem37.dll
